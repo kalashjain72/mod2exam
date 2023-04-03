@@ -1,0 +1,13 @@
+{
+    "name": "kalash/my-pakage",
+    "description": "For MVC mod-2 exam",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+          "Controller\\": "controllers/",
+          "Model\\": "model/",
+          "View\\": "view/"
+        },
+    "require": {}
+}
+}
